@@ -1,0 +1,5 @@
+nano ~/.bashrc
+alias aczglogs= "~/mostrar_logs.sh"
+source ~/.bashrc
+aczglogs
+

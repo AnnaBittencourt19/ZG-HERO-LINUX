@@ -1,0 +1,2 @@
+crontab -e
+*/ 5 * * * * executar_projeto.sh #ou ~/executar_projeto,sh
